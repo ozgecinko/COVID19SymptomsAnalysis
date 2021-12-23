@@ -19,3 +19,8 @@ pip install mlxtend
 
 # Data
 [Symptoms and COVID Presence (May 2020 data)](https://www.kaggle.com/hemanthhari/symptoms-and-covid-presence)
+
+# Team Members
+* [Özge Çinko](https://github.com/ozgecinko)
+* [Şule Akçay](https://github.com/Sulecs1)
+* [Kader Miyanyedi](https://github.com/Kadermiyanyedi)
