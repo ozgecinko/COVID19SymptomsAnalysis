@@ -17,7 +17,7 @@ pip install missingno
 pip install mlxtend
 ```
 
-# Data
+# Dataset
 [Symptoms and COVID Presence (May 2020 data)](https://www.kaggle.com/hemanthhari/symptoms-and-covid-presence)
 
 # Team Members
