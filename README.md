@@ -7,15 +7,15 @@ Analysis of COVID-19 symptoms using apriori algorithm. _It can not be used for s
 git clone https://github.com/ozgecinko/COVID19SymptomsAnalysis.git
 ```
 
-## Library Installations
-**Data Visualization**
+## Create virtuaenv and add dependencies
 ```
-pip install missingno
+python -m venv .env #create env
+source .env/bin/active #active env
+
+pip install -r requirements.txt
+
 ```
-**Implementing Apriori Algorithm**
-```
-pip install mlxtend
-```
+
 
 # Dataset
 [Symptoms and COVID Presence (May 2020 data)](https://www.kaggle.com/hemanthhari/symptoms-and-covid-presence)
